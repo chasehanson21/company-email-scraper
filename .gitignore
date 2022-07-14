@@ -1,1 +1,2 @@
 sendgrid.env
+export SENDGRID_API_KEY='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'
